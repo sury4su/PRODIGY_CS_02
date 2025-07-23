@@ -26,7 +26,7 @@ python main.py
 ## 🖼️ Example Output
 
 Original → Encrypted → Decrypted (Restored)
-![example](example_screenshot.jpg)
+
 
 ---
 
